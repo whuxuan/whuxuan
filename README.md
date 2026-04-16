@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Zhenxuan Wang, an Assistant Professor at North Carolina State University.
-
 As an applied economist, my research spans environmental, energy, and development economics. The central theme of my work is to understand the impacts of climate change, environmental risks, and energy system transitions, as well as the roles of policy, technological change, and behavioral adaptation in addressing these challenges. My recent work focuses on:
 
 - ⚡ Energy transition, electrification, and policy designs for the net-zero emissions target
